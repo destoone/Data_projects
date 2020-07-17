@@ -3,5 +3,6 @@
 They are notebooks that I constantly update, there are different themes.🙂
 
 
-1 - here we worked with unsupervised machine learning models such as K-means, hierarchical clusters...
-2 - Here we analyzed NYC High School Data
+- [here](https://github.com/destoone/Data_projects/blob/master/Clustering.ipynb) we worked with unsupervised machine learning models such as K-means, hierarchical clusters...
+
+- [Here](https://github.com/destoone/Data_projects/blob/master/Schools.ipynb) we analyzed NYC High School Data.
