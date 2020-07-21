@@ -7,4 +7,8 @@ They are notebooks that I constantly update, there are different themes.🙂
 
 - [Here](https://github.com/destoone/Data_projects/blob/master/Schools.ipynb) we analyzed NYC High School Data.
 
-- [Here](https://github.com/destoone/Data_projects/blob/master/Star_wars.ipynb) We analyzed Star Wars survey data.
+- [Here](https://github.com/destoone/Data_projects/blob/master/Star_wars.ipynb) we analyzed Star Wars survey data.
+
+- [Here](https://github.com/destoone/Data_projects/blob/master/college.ipynb) we analyzed earnings based on college majors
+
+- [Here](https://github.com/destoone/Data_projects/blob/master/employee.ipynb) we analyzed survey on behaviors for employees
