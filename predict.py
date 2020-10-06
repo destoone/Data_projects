@@ -46,5 +46,5 @@ predictions= lr.predict(test[training])
 mae= np.mean((test[target]-predictions).abs())
 rmse= mean_squared_error(predictions,test[target])**1/2
 print(mae,rmse)
-
+## In summarize, mae error grow up when we add more features, and rmse error get low up, that means the variance between the predicted values get low up.
 
