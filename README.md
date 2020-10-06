@@ -18,3 +18,5 @@ They are notebooks that I constantly update, there are different themes.🙂
 - [Here](https://github.com/destoone/Data_projects/blob/master/knn_prediction.ipynb) we have predicted cars prices by using knn models.
 
 - [Here](https://github.com/destoone/Data_projects/blob/master/linear_regression.ipynb) we have predicted house sale prices by using linear regression models.
+
+-[Here](https://github.com/destoone/Data_projects/blob/master/predict.py) We have predicted the the stock market close prices.
