@@ -22,3 +22,5 @@ They are notebooks that I constantly update, there are different themes.🙂
 - [Here](https://github.com/destoone/Data_projects/blob/master/predict.py) We have predicted the the stock market close prices.
 
 - [Here](https://github.com/destoone/Data_projects/blob/master/bike_rentals.ipynb)we have predicted bike rentals number by using linear regression, decision tree and random forest models.
+
+- [Here](https://github.com/destoone/Data_projects/blob/master/neural_network.ipynb)we have used neural network models and others for a Handwritten Digits Classifier.
