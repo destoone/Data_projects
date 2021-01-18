@@ -27,4 +27,4 @@ They are notebooks that I constantly update, there are different themes.🙂
 
 - [Here](https://github.com/destoone/Data_projects/blob/master/kaggle_titanic.ipynb) we have created a kaggle workflow for a compete on the titanic disaster.
 
--[Here](https://github.com/destoone/Data_projects/blob/master/TP-Churn.ipynb) We have make a churn on the data of a bank for loans.
+- [Here](https://github.com/destoone/Data_projects/blob/master/TP-Churn.ipynb) We have make a churn on the data of a bank for loans.
