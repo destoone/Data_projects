@@ -30,3 +30,5 @@ They are notebooks that I constantly update, there are different themes.🙂
 - [Here](https://github.com/destoone/Data_projects/blob/master/TP-Churn.ipynb) We have make a churn on the data of a bank for loans.
 
 - [Here](https://github.com/destoone/Data_projects/blob/master/Questions_data_science.ipynb) we have treated different questions about Data Science by using dataset from data science website of Stack-Exchange. 
+
+- [Here](https://github.com/destoone/Data_projects/blob/master/house_price.ipynb) we have make Predict sales prices and practice feature engineering.
